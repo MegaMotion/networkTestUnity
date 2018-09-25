@@ -59,6 +59,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Billboard.cs" />
+    <Compile Include="Assets\Bullet.cs" />
+    <Compile Include="Assets\EnemySpawner.cs" />
+    <Compile Include="Assets\Health.cs" />
     <Compile Include="Assets\PlayerController.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/GlimmerTech/networkTest/networkTest/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
